@@ -1,0 +1,156 @@
+body{
+    background-image: url("ideia2.jpeg");
+    background-size: 100%;
+    background-attachment: fixed;
+    height: 100%;
+    width: 100%;
+    
+    
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    min-height: 100%;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    clear: both;
+    background: rgb(0, 2, 5)000;  /* fallback for old browsers */
+    filter: alpha(opacity=100);
+    opacity: 0.7;
+    -moz-opacity:0.5;
+    height: 90px;
+    padding: 20px;
+}
+footer{
+    clear: both;
+    background: rgb(0, 2, 5)000;  /* fallback for old browsers */
+    filter: alpha(opacity=100);
+    opacity: 0.7;
+    -moz-opacity:0.5;
+    height: 20px;
+    padding: 50px;
+   
+    
+}
+
+textarea{
+    width: 900px;
+    height: 70px;
+    padding: 10px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+#principal{
+    
+    clear: both;
+    background-size: 100%;
+    min-height: 600px;
+    padding: 100px;
+}
+
+#logo{
+    clear: both;
+    padding: 50px;
+    margin-top: -100px;
+}
+
+#menu{
+    float: right;
+    margin-top: 30px;
+
+}
+
+#menu a{
+    padding: 52px 10px;
+    text-decoration: none;
+    color: #eb6308;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder ;
+    
+}
+
+#logotp{
+    float: right;
+    padding: 23px 10px;
+}
+#wlb{
+    
+    margin-left: 580px;
+    
+}
+
+#logo{
+    clear: both;
+    float: left;
+    margin-left: -60px;
+    margin-top: -25px;
+}
+
+#nome{
+    text-align: center;
+}
+#area{
+    margin-left: 150px;
+    font-size: 20px;
+    margin-top: 130px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder ;
+    color: #f05914;
+    text-shadow: 1px 1px 1px #111111;
+}
+
+#msg{
+    margin-left: 5px;
+}
+  
+#tit{
+    text-align: center;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder ;
+    font-size: 30px;
+    text-shadow: 1px 1px 1px #111111;
+}
+
+#text{
+    text-align: center;
+    color: #f05914;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder ;
+    font-size: 25px;
+    text-shadow: 1px 1px 1px #111111;
+}
+
+#bt{
+    border:1px solid #e27114;
+    border-radius:4px;
+    display:inline-block;
+    cursor:pointer;
+    font-family: Arial, Helvetica, sans-serif;;
+    font-weight:bold;
+    font-size:13px;
+    padding:6px 10px;
+    text-decoration:none;
+}
+
+#cont{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: #eb6308;
+    padding: 10px;
+    text-align: center;
+    margin-top: -35px;
+}
+
+.caixa{
+    width: 200px;
+    height: 25px;
+}
+
+

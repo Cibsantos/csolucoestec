@@ -1,0 +1,127 @@
+
+body{
+    background-image:url("img5.jpeg");
+    background-size: 100%;
+    background-attachment: fixed;
+    height: 100%;
+    width: 100%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    min-height: 100%;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+header{
+    clear: both;
+    background: rgb(0, 2, 5)000;  /* fallback for old browsers */
+    filter: alpha(opacity=100);
+    opacity: 0.7;
+    -moz-opacity:0.5;
+    height: 60px;
+    padding: 20px;
+}
+
+
+footer{
+    clear: both;
+    background: rgb(0, 2, 5)000;  /* fallback for old browsers */
+    filter: alpha(opacity=100);
+    opacity: 0.7;
+    -moz-opacity:0.5;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder ;
+    height: 20px;
+    padding: 40px;
+    margin-top: 300px;
+}
+
+#cont{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #eb6308;
+    padding: 10px;
+    text-align: center;
+    margin-top: -35px;
+}
+
+
+#logo{
+    clear: both;
+    float: left;
+    margin-left: -230px;
+    margin-top: -10px;
+}
+
+#menu{
+    float: right;
+    margin-top: 30px;
+
+}
+
+#menu a{
+    padding: 52px 10px;
+    text-decoration: none;
+    color: #eb6308;
+    font-family: Arial;
+    font-weight: bolder ;
+}
+
+
+#logotp{
+    float: right;
+    padding: 23px 10px;
+}
+
+#principal{
+    clear: both;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+  
+  
+}
+
+#cs{
+    float: left;
+    margin-left: -150px;
+    margin-top: 5px;
+}
+
+
+#whatsbaixo{
+    margin-left: 600px;
+}
+
+#titulo{
+    margin-top: 100px;
+    color: #fd7a00;;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-shadow: 1px 1px 1px #000000;
+   
+}
+
+.container{
+    width: 960px;
+    margin: auto;
+}
+
+
+.descricao{
+
+    text-align: justify;
+    font-family: 'Josefins-sans', sans-serif;
+    line-height: 1.8;
+    margin-top: -10px;
+    font-size: 20px;
+    padding: 60px;
+    color: #ffffff;
+    font-weight: bolder;
+    text-shadow: 1px 1px 1px #000000;
+}
+
